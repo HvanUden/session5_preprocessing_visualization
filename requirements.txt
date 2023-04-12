@@ -1,0 +1,8 @@
+ipykernel==6.21.3
+Faker==18.4.0
+matplotlib==3.7.1
+numpy==1.24.2
+pandas==2.0.0
+Pillow==9.5.0
+plotnine==0.10.1
+seaborn==0.12.2
